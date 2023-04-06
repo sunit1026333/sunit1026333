@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/gerrard_taeil._/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/d._.w0o/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCTikHent_bukHu2muDOQRrw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
