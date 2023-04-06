@@ -1,4 +1,4 @@
-### Hi there 👋
+### 단국대학교부속소프트웨어고등학교 김태일입니다.
 
 <!--
 **sunit1026333/sunit1026333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/gerrard_taeil._/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCTikHent_bukHu2muDOQRrw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/>
