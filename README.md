@@ -28,6 +28,8 @@
 <a href="https://www.youtube.com/channel/UCTikHent_bukHu2muDOQRrw/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 <h1>HANNI❤️</h1>
-<img src="https://i.namu.wiki/i/DuYedhEttOopbQDB-3p6lMmrqd9O-7PlDFmd_0M5nsZtHFk7nfkvsMyXrXRugaiV4cAHtpuDdsngoRQD0UtASg.gif"/>
+
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMzAyMTdfMTg3/MDAxNjc2NTYwMzg3MzM1.sI_E4kaPdIFEbE2W3KuIYxEUd8_4SU9o9BDePftyXpIg.YwIqoeAqdwDkI0hJVcRnifW4M_Y5EX6YCoW0U_4tVYYg.JPEG.niceguy00/Seul%EC%BB%B4_%EB%89%B4%EC%A7%84%EC%8A%A4_%EB%94%94%ED%86%A0_%ED%95%98%EB%8B%8802.jpg?type=w800"/>
+
 
 <br />
